@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Production build
-dist/
+# dist/  # Commented out so we can deploy to Hostinger
 build/
 
 # Environment variables
